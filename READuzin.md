@@ -14,22 +14,12 @@
 <br>
 
 ## 1. 귀여운 동물 캐릭터들
-<style>
-    div {
-        text-align: center;
-    }
-</style>
-<div> 
-<img src=cinamo.jpg width=200px display=block margin-left=auto margin-right=auto>
-<img src=mangboong.jpg width=200px display=block margin-left=auto margin-right=auto>
-<img src=mip.jpg width=200px display=block margin-left=auto margin-right=auto>
-</div>
 
-<style>
-div {
-    text-align: left;
-}
-</style>
+<div> 
+<img src="./imageuzin/cinamo.jpg" width=200px display=block margin-left=auto margin-right=auto>
+<img src="./imageuzin/mangboong.jpg" width=200px display=block margin-left=auto margin-right=auto>
+<img src="./imageuzin/mip.jpg" width=200px display=block margin-left=auto margin-right=auto>
+</div>
 
 <div>
 저는 대체로 귀가 퐁실퐁실하고 하얀 친구들을 좋아하는 것 같아요! 제가 제일 좋아하는 세 캐릭터들을 모아보니 공통점이 보이네요...! 이외에도 귀엽고 하찮게 생긴 동물 캐릭터라면 그저 환장한답니다. 어저께도 후쿠오카 여행을 가서 산리오샵에서만 6만원을 썼어요ㅋㅋㅋㅋ
@@ -41,8 +31,8 @@ div {
 
 ## 2. 침착맨 유니버스
 <div> 
-<img src=chim.jpg width=200px display=block margin-left=auto margin-right=auto>
-<img src=ramm.jpg width=300px display=block margin-left=auto margin-right=auto>
+<img src="./imageuzin/chim.jpg" width=200px display=block margin-left=auto margin-right=auto>
+<img src="./imageuzin/ramm.jpg" width=300px display=block margin-left=auto margin-right=auto>
 </div>
 침착맨, 주호민, 김풍, 단군, 매직박... 이분들은 제 밥친구이자 통학친구이자 설거지친구입니다. 코시국 자취 라이프도 이분들 덕분에 외롭지 않았어요ㅎㅁㅎ 침착맨 유니버스를 잘 모르지만 한번 찍먹해보고 싶으신 분들께는 김풍 작가님의 MBC 예능 '라면꼰대'를 추천드립니다! 주말이 순삭되실거예요
 
