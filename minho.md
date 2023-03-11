@@ -8,9 +8,10 @@ ___
 > [My Instagram (ID : min_houu)](https://instagram.com/min_houu?igshid=ZDdkNTZiNTM= "인스타 링크")
 
 * ### 인적사항
-    * 이름 : 최민호 <br>
-    * 학과 : 사회복지학과 <br>
-    * 학번 : 17학번 <br>
+    | 이름 | 학과 | 학번 |
+    | :---: | :---: | :---: |
+    |최민호|사회복지학과|17|
+    
     * 이번 학기 시간표입니다 <br>
     
     ![시간표](/minho/timetable.jpg)
