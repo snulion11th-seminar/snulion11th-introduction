@@ -20,9 +20,9 @@
     }
 </style>
 <div> 
-<img src=cinamo.jpg width=200px display=block margin-left=auto margin-right=auto>
-<img src=mangboong.jpg width=200px display=block margin-left=auto margin-right=auto>
-<img src=mip.jpg width=200px display=block margin-left=auto margin-right=auto>
+<img src=images/cinamo.jpg width=200px display=block margin-left=auto margin-right=auto>
+<img src=images/mangboong.jpg width=200px display=block margin-left=auto margin-right=auto>
+<img src=images/mip.jpg width=200px display=block margin-left=auto margin-right=auto>
 </div>
 
 <style>
@@ -41,8 +41,8 @@ div {
 
 ## 2. 침착맨 유니버스
 <div> 
-<img src=chim.jpg width=200px display=block margin-left=auto margin-right=auto>
-<img src=ramm.jpg width=300px display=block margin-left=auto margin-right=auto>
+<img src=images/chim.jpg width=200px display=block margin-left=auto margin-right=auto>
+<img src=images/ramm.jpg width=300px display=block margin-left=auto margin-right=auto>
 </div>
 침착맨, 주호민, 김풍, 단군, 매직박... 이분들은 제 밥친구이자 통학친구이자 설거지친구입니다. 코시국 자취 라이프도 이분들 덕분에 외롭지 않았어요ㅎㅁㅎ 침착맨 유니버스를 잘 모르지만 한번 찍먹해보고 싶으신 분들께는 김풍 작가님의 MBC 예능 '라면꼰대'를 추천드립니다! 주말이 순삭되실거예요
 
