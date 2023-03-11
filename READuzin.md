@@ -1,5 +1,9 @@
 # 멋사 11기 조유진 자기소개
 
+| 이름 | 학과 | 학번 |
+| :---: | :---: | :---: |
+| 조유진 | 자유전공학부 | 19 |
+
 ### 안녕하세요! 멋사 11기로 합류하게 된 19학번 조유진입니다.
 <br>
 
@@ -16,9 +20,9 @@
 ## 1. 귀여운 동물 캐릭터들
 
 <div> 
-<img src="./imageuzin/cinamo.jpg" width=200px display=block margin-left=auto margin-right=auto>
-<img src="./imageuzin/mangboong.jpg" width=200px display=block margin-left=auto margin-right=auto>
-<img src="./imageuzin/mip.jpg" width=200px display=block margin-left=auto margin-right=auto>
+<img src=imageuzin/cinamo.jpg width=200px display=block margin-left=auto margin-right=auto>
+<img src=imageuzin/mangboong.jpg width=200px display=block margin-left=auto margin-right=auto>
+<img src=imageuzin/mip.jpg width=200px display=block margin-left=auto margin-right=auto>
 </div>
 
 <div>
@@ -31,8 +35,8 @@
 
 ## 2. 침착맨 유니버스
 <div> 
-<img src="./imageuzin/chim.jpg" width=200px display=block margin-left=auto margin-right=auto>
-<img src="./imageuzin/ramm.jpg" width=300px display=block margin-left=auto margin-right=auto>
+<img src=imageuzin/chim.jpg width=200px display=block margin-left=auto margin-right=auto>
+<img src=imageuzin/ramm.jpg width=300px display=block margin-left=auto margin-right=auto>
 </div>
 침착맨, 주호민, 김풍, 단군, 매직박... 이분들은 제 밥친구이자 통학친구이자 설거지친구입니다. 코시국 자취 라이프도 이분들 덕분에 외롭지 않았어요ㅎㅁㅎ 침착맨 유니버스를 잘 모르지만 한번 찍먹해보고 싶으신 분들께는 김풍 작가님의 MBC 예능 '라면꼰대'를 추천드립니다! 주말이 순삭되실거예요
 
