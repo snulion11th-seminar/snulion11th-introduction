@@ -20,7 +20,7 @@
     }
 </style>
 <div> 
-<img src=imageuzin/cinamo.jpg width=200px display=block margin-left=auto margin-right=auto>
+<img src="https://cdn.imweb.me/thumbnail/20230131/c6bab4647810a.png" width=200px display=block margin-left=auto margin-right=auto>
 <img src=imageuzin/mangboong.jpg width=200px display=block margin-left=auto margin-right=auto>
 <img src=imageuzin/mip.jpg width=200px display=block margin-left=auto margin-right=auto>
 </div>
